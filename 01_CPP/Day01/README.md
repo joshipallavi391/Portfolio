@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Pallavi Joshi
 
-## 🤖 Mechatronics Engineer | Robotics & Embedded Systems Engineer
+## 🤖 Mechatronics Engineer | Robotics & Embedded Systems Developer
 
-I am a Mechatronics Engineering graduate from Banasthali Vidyapith, passionate about robotics, embedded systems, automation, and intelligent systems. I enjoy building real-world projects that combine hardware, software, and control systems.
+I am a Mechatronics Engineering graduate from Banasthali Vidyapith, passionate about robotics, embedded systems, automation, and intelligent machines.
+
+I enjoy designing and developing real-world systems that combine **hardware, software, and control technologies**. My work focuses on building robotic applications, IoT solutions, and embedded systems using modern engineering tools.
 
 ---
 
@@ -12,7 +14,7 @@ I am a Mechatronics Engineering graduate from Banasthali Vidyapith, passionate a
 - C++
 - Python
 - C
-- MATLAB (Basic)
+- MATLAB
 
 ### Robotics & Simulation
 - ROS2
@@ -28,20 +30,21 @@ I am a Mechatronics Engineering graduate from Banasthali Vidyapith, passionate a
 - IoT Applications
 - PCB Design
 
-### Automation
+### Automation & Engineering Tools
 - PLC Basics
 - LabVIEW
-- Industrial Control Systems
+- Git & GitHub
+- Altium / KiCad
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🔹 Smart Access Tracker (RFID Attendance System)
 
-ESP32-based smart attendance system using RFID technology.
+An ESP32-based smart attendance system integrating RFID authentication with cloud connectivity.
 
-**Technologies Used:**
+**Technologies:**
 - ESP32-S3
 - RC522 RFID Reader
 - Firebase
@@ -49,39 +52,40 @@ ESP32-based smart attendance system using RFID technology.
 - Android Application
 
 **Features:**
-- RFID-based authentication
-- Real-time data monitoring
+- RFID-based identification
+- Real-time data management
 - Cloud database integration
 
 ---
 
 ### 🔹 Voice Controlled Biped Robot
 
-Arduino-based humanoid robot project.
+A robotic system developed using microcontrollers and servo motors.
 
-**Technologies Used:**
+**Technologies:**
 - Arduino Nano
 - Servo Motors
-- Voice Control System
+- Voice Control
 
-**Features:**
-- Multi-servo movement control
-- Voice-based interaction
+**Focus:**
+- Motion control
+- Embedded programming
+- Human-machine interaction
 
 ---
 
-### 🔹 Robotics Simulation
+### 🔹 Robotics Simulation Projects
 
-Working with robot simulation and software development.
+Exploring robot software development using simulation environments.
 
-**Technologies Used:**
+**Technologies:**
 - ROS2
 - Webots
 - Linux
 
 **Focus Areas:**
 - Robot communication
-- Simulation environment
+- Simulation
 - Autonomous robotics concepts
 
 ---
@@ -99,16 +103,16 @@ Working with robot simulation and software development.
 
 ## 🎯 Career Goal
 
-To become a Robotics and Embedded Software Engineer by developing intelligent robotic systems that integrate hardware, software, and automation technologies.
+To become a Robotics and Embedded Software Engineer by developing intelligent robotic systems that integrate electronics, programming, and automation.
 
 ---
 
 ## 📌 Portfolio Roadmap
 
-✅ C++ Fundamentals  
+✅ C++ Development  
 ✅ Python Programming  
 ✅ Embedded Systems  
-✅ ESP32 IoT Projects  
+✅ ESP32 Projects  
 ✅ ROS2 Development  
 🔄 Computer Vision  
 🔄 Advanced Robotics Projects
